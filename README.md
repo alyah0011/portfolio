@@ -1,7 +1,5 @@
 # Portfolio
 
-# [Your Name]
-
 ## About Me
 I am a cybersecurity student with a keen interest in web development. Currently pursuing Bachelor in IT at International, I bring a unique blend of skills in both web development and cybersecurity. My goal is to contribute to secure and efficient web applications, implementing best practices for a robust online environment.
 
