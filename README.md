@@ -1,7 +1,5 @@
 # Portfolio
 
-# [Your Name]
-
 ## About Me
 I am a passionate cybersecurity student with a strong interest in [specific areas of cybersecurity, e.g., network security, penetration testing, cryptography]. Currently pursuing [your degree] at [your university], I am dedicated to staying up-to-date with the latest trends and technologies in the field.
 
