@@ -3,6 +3,11 @@ logo: /assets/img/headshot_circle.png
 description: Aspiring Cybersecurity Analyst | Bachelor of Information Technology
 show_downloads: true
 
+<a href="{{ site.github.url }}">GitHub</a>
+<a href="{{ site.linkedin.url }}">GitHub</a>
+<a href="{{ site.email.url }}">GitHub</a>
+
+
 github:
   zip_url: https://github.com/alyah0011
 
