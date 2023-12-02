@@ -1,5 +1,12 @@
 title: Alya Husna Ibrahim
 logo: /assets/img/headshot_circle.png
-description: Aspiring Cybersecurity Analyst | Final year IT Student
-download: false
+description: Aspiring Cybersecurity Analyst | Bachelor of Information Technology
+show_downloads: true
+
+github:
+  zip_url: https://github.com/alyah0011
+
+linkedin: www.linkedin.com/in/alya-husna-57b378253
+email: alyah0011@gmail.com
+
 theme: jekyll-theme-minimal
